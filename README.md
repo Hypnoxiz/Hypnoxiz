@@ -1,4 +1,4 @@
-            - About me! 🧠
+# About me! 🧠
 
 
 - 🍷Yo! i'm **Hypnoxiz**!
